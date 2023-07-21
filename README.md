@@ -1,8 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Refuge of the Violent
+## Jeremiah 7:1-11
 
-[![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
-![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
+[![Build status](https://github.com/sermons/violent/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/violent/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/violent)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
