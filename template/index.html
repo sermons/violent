@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title><%= pkg.description %></title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+    <link rel=icon href="favicon.svg" sizes="any" type="image/svg+xml" />
+
+    <% pkg.config.css.forEach( function(css) { %>
+    <link rel="stylesheet" href="<%= css.href %>" integrity="<%= css.integrity %>" crossorigin="anonymous" />
+    <% } ) %>
+
+    <link rel="stylesheet" href="css/boldblack.css" id="theme" />
+    <link rel="stylesheet" href="css/slides.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+
+      <noscript><div class="noscript">
+        <h1><%= pkg.description %></h1>
+        <p>(Please see PDF link below)</p>
+      </div></noscript>
+
+      <div class="slides">
+        <% pkg.config.slides.forEach( function(md) { %>
+        <section data-markdown data-charset="utf8"
+          data-separator="^---[-\s]*$"
+          data-separator-vertical="^\*\*\*[\*\s]*$"
+          data-separator-notes="^>>>[>\s]*$">
+          <textarea data-template>
+        <%= grunt.template.process(grunt.file.read('slides/' + md)) %>
+          </textarea>
+        </section>
+        <% } ) %>
+      </div>
+
+      <div id="footer"><%= pkg.config.pretty_url %>
+        <span class="links">
+          <a href="<%= pkg.shortname %>.pdf">
+            <i class="fas fa-file-pdf"></i></a>
+	  <a onclick='Reveal.getPlugin("notes").open()'>
+	    <i class="fas fa-comment"></i></a>
+          <a href="https://github.com/<%= pkg.repository %>/actions/runs/<%= process.env.GITHUB_RUN_ID %>">
+            <i class="fas fa-hammer"></i></a>
+        </span>
+        <span class="commit">
+          <a href="https://github.com/<%= pkg.repository %>/commit/<%= pkg.commit %>"><%= pkg.commit %></a>
+	</span>
+      </div>
+
+    </div>
+
+    <% pkg.config.js.forEach( function(js) { %>
+    <script src="<%= js.src %>" integrity="<%= js.integrity %>" crossorigin="anonymous"></script>
+    <% } ) %>
+
+    <% pkg.config.plugins.forEach( function(js) { %>
+    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
+    <% } ) %>
+
+    <script src="lib/socket.io/socket.io.min.js"></script>
+
+    <script>
+      mpkey = Reveal().getQueryHash().s || null
+      mpdep = 'https://raw.githack.com/reveal/multiplex/master/' + (mpkey ? 'master' : 'client') + '.js'
+
+      Reveal.initialize({
+        display: 'flex',
+        maxScale: 4.0,
+        slideNumber: 'c/t',
+        controlsTutorial: false,
+        viewDistance: 40,
+
+        markdown: {
+          smartypants: true
+        },
+
+        multiplex: {
+          url: '<%= pkg.config.multiplex.url %>',
+          id : '<%= pkg.config.multiplex.id  %>',
+          secret: mpkey
+        },
+
+        plugins: [ RevealMarkdown, RevealHighlight, RevealMath.KaTeX, RevealNotes ],
+
+        dependencies: [
+	  (mpkey == 'none') ? null : { src: mpdep, async:true }
+	].filter(v => v)
+      });
+    </script>
+
+    <script>
+      hljs.highlightAll();
+    </script>
+
+  </body>
+</html>
