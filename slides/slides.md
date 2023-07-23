@@ -1,6 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> id="title" -->
 # Refuge of the Violent
 ## Jeremiah 7:1-11
+
+[Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
 >>>
 + theme: rebuilding the Lord's house
@@ -16,11 +18,13 @@
 + Behold the Lamb
 
 ---
+<!-- .slide: <%= bg("unesco-Jerusalem_Damascus_Gate_108391.jpg") %>  -->
 **Hear** the word of the Lord, <br>
 all you men of Judah who <br>
 enter these **gates** to **worship** the Lord. 
 
 [Jeremiah 7:2 (ESV)](# "ref")
+[Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
 + audience
@@ -30,6 +34,7 @@ enter these **gates** to **worship** the Lord.
 + N. Isr. vs S. Jud.:
 
 ---
+<!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
 Have you seen what she did, <br>
 that **faithless** one, Israel? ...
 
@@ -41,6 +46,7 @@ Faithless Israel has shown herself <br>
 **more righteous** than treacherous Judah
 
 [Jeremiah 3:6,10,11 (ESV)](# "ref")
+[Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
 + **faithless**: astray for so long,
@@ -52,14 +58,18 @@ Faithless Israel has shown herself <br>
 + cf Ez23 Oholah, Oholibah
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 For from the least to the greatest of them, <br>
 everyone is **greedy** for unjust gain; <br>
-and from prophet to priest, everyone deals **falsely**.
+and from prophet to priest, <br>
+everyone deals **falsely**.
 
-They have healed the **wound** of my people **lightly**, <br>
+They have healed the **wound** <br>
+of my people **lightly**, <br>
 saying, ‘**Peace, peace**,’ when there is no peace.
 
 [Jeremiah 6:13-14 (ESV)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + much **easier** to preach comfort + peace
@@ -68,17 +78,19 @@ saying, ‘**Peace, peace**,’ when there is no peace.
   + to say it's fine is **disservice**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> id="outline" class="outline" -->
 ## Refuge of the Violent
 1. (1) [[v1-4]](# "ref")
 1. (2) [[v5-7]](# "ref")
 1. (3) [[v8-11]](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> -->
 **Amend** your **ways** and your **deeds**, <br>
 and I will let you dwell in this place. 
 
 [Jeremiah 7:3 (ESV)](# "ref")
+[Caleb George](https://unsplash.com/photos/URmkfvtK3Qw "caption")
 
 >>>
 + amend: not **condemn**, destroy, 
@@ -88,6 +100,7 @@ and I will let you dwell in this place.
 + deeds: **practice**, not just intent
 
 ---
+<!-- .slide: <%= bg("Holyland_Model_Temple.jpg") %> -->
 Do not trust in these deceptive words: 
 
 ‘This is the **temple** of the Lord, <br>
@@ -112,6 +125,7 @@ the temple of the Lord.’
 + Jam2: "I believe in God"
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 You believe that **God is one**; you do well. <br>
 Even the **demons** believe -- and shudder!
 
@@ -130,7 +144,7 @@ that **faith** apart from **works** is useless?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I trust in any **talismans** or **mantras**?
+# Do I trust in <br> any **talismans** <br> or **mantras**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -142,6 +156,7 @@ that **faith** apart from **works** is useless?
 + how **do** I know if I'm pleasing God?
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 (2)
 
 >>>
@@ -150,6 +165,7 @@ that **faith** apart from **works** is useless?
   + your ways and your deeds,
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 if you truly execute **justice** one with another, 
 
 if you do not **oppress** the sojourner, <br>
@@ -161,6 +177,7 @@ and if you do not go after **other gods** <br>
 to your own harm, 
 
 [Jeremiah 7:5-6 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + justice: btwn man + **nbr** / friend
@@ -177,6 +194,7 @@ to your own harm,
   + should consist of:
 
 ---
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 “Is not this the **fast** that I choose:
 
 to loose the bonds of **wickedness**, <br>
@@ -197,18 +215,20 @@ and to **break** every yoke?
   + later in same ch in Jer:
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 I did **not** speak to your fathers <br>
 or command them <br>
 concerning burnt **offerings** and sacrifices. 
 
-But this command I gave them: ‘**Obey** my voice, <br>
-and I will be your **God**, <br>
+But this command I gave them: <br>
+‘**Obey** my voice, and I will be your **God**, <br>
 and you shall be my **people**. 
 
 And **walk** in all the way that I command you, <br>
 that it may be **well** with you.’
 
 [Jeremiah 7:22-23 (ESV)](# "ref")
+[Mika Matin. TN, US](https://unsplash.com/photos/MMylZHPsO2I "caption")
 
 >>>
 + Being Chr does not consist in
@@ -222,10 +242,10 @@ that it may be **well** with you.’
   + Jesus' **parable** in Mt 21:
 
 ---
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 What do you think? A man had **two sons**. <br>
 And he went to the first and said, <br>
-‘Son, **go and work** in the vineyard today.’ 
-
+‘Son, **go and work** in the vineyard today.’ <br>
 And he answered, ‘**I will not**,’ but <br>
 afterward he changed his mind and **went**. 
 
@@ -235,6 +255,7 @@ And he answered, ‘**I go**, sir,’ but did **not go**.
 Which of the two did the **will** of his father?”
 
 [Matthew 21:28-32](# "ref")
+[Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
 
 >>>
 + talk is **cheap**:
@@ -243,6 +264,7 @@ Which of the two did the **will** of his father?”
   + as we read earlier:
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 if you truly execute **justice** one with another, 
 
 if you do not **oppress** the sojourner, <br>
@@ -264,6 +286,7 @@ to your own harm,
 + Hope of **promise**: if we truly do so,
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 then I will let you **dwell** in this place, <br>
 in the land that I gave of old <br>
 to your fathers forever.
@@ -278,7 +301,9 @@ to your fathers forever.
 + 2Sam7 **David** wants to build temple:
 
 ---
-Go and tell my servant David, 'Thus says the Lord: <br>
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
+Go and tell my servant David, <br>
+'Thus says the Lord: <br>
 Would you build me a **house** to dwell in?' ...
 
 I took you from the **pasture**, <br>
@@ -288,6 +313,7 @@ the Lord declares to you that <br>
 the Lord will make you a **house**
 
 [2 Samuel 7:5,8,11 (ESV)](# "ref")
+[Dan Edwards](https://unsplash.com/photos/cgPxN5Y27pA "caption")
 
 >>>
 + not that God **needs** money / volun
@@ -296,8 +322,9 @@ the Lord will make you a **house**
   + non-Jews in Athens:
 
 ---
-The God who made the **world** and everything in it, <br>
-being Lord of **heaven and earth**, <br>
+<!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
+The God who made the **world** and everything <br>
+in it, being Lord of **heaven and earth**, <br>
 does not live in **temples** made by man ...
 
 having determined allotted **periods**  <br>
@@ -305,6 +332,7 @@ and the boundaries of their **dwelling** place,  <br>
 that they should **seek God**
 
 [Acts 17:24,26 (ESV)](# "ref")
+[Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
 + **We** need Him! 
@@ -319,7 +347,7 @@ that they should **seek God**
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I wronged my **neighbour**, the **vulnerable**, the **innocent**, or **God**?
+# Have I wronged <br> my **neighbour**, <br> the **vulnerable**, <br> the **innocent**, or **God**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -328,9 +356,11 @@ that they should **seek God**
 + promise of a lasting **home**
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 (3)
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 “Behold, you trust in deceptive words <br>
 to no avail. 
 
@@ -339,6 +369,7 @@ swear **falsely**, make offerings to **Baal**, and <br>
 go after **other gods** that you have not known, 
 
 [Jeremiah 7:8-9 (ESV)](# "ref")
+[Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
 + 6 of 10 commandments
@@ -347,11 +378,13 @@ go after **other gods** that you have not known,
   + but Sermon on Mount, Mt5:
 
 ---
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 But I say to you that everyone who is **angry** <br>
 with his brother will be liable to **judgment** ...
 
-Everyone who looks at a woman with **lustful intent** <br>
-has already committed **adultery** with her in his heart
+Everyone who looks at a woman <br>
+with **lustful intent** has already <br>
+committed **adultery** with her in his heart
 
 [Matthew 5:22,28 (ESV)](# "ref")
 
@@ -367,6 +400,7 @@ ______
 + bring in whole **family**: v18
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 The **children** gather wood, <br>
 the **fathers** kindle fire, <br>
 and the **women** knead dough, <br>
@@ -376,6 +410,7 @@ And they pour out drink offerings to other gods, <br>
 to **provoke** me to anger
 
 [Jeremiah 7:18 (ESV)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + doesn't **harm** God, only **own** shame
@@ -389,9 +424,7 @@ to **provoke** me to anger
 + v9 list of inf: "(you plan) to steal.."
 
 ---
-“Behold, you trust in deceptive words <br>
-to no avail. 
-
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 Will you **steal**, **murder**, commit **adultery**, <br>
 swear **falsely**, make offerings to **Baal**, and <br>
 go after **other gods** that you have not known, 
@@ -405,8 +438,9 @@ go after **other gods** that you have not known,
 + follow other **idols**,
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 and then come and **stand before me** <br>
-in this house, which is called by my name,
+in this house, which is called by **my name**,
 
 and say, ‘We are **delivered**!’ -- <br>
 only to go on doing all these **abominations**?
@@ -424,6 +458,7 @@ only to go on doing all these **abominations**?
 + Don't forget **whose** house this is:
 
 ---
+<!-- .slide: <%= bg("unsplash-KXtMGheovdw-cave.jpg") %> -->
 Has this house, which is called by **my name**,<br>
 become a **den of robbers** in your eyes?
 
@@ -431,6 +466,7 @@ Behold, I myself have **seen** it,<br>
 declares the Lord.
 
 [Jeremiah 7:11 (ESV)](# "ref")
+[Iswanto Arif](https://unsplash.com/photos/KXtMGheovdw "caption")
 
 >>>
 + den: **cave**, hideout, refuge
@@ -447,16 +483,19 @@ declares the Lord.
   + God sees in secret, takes seriously:
 
 ---
-When I spoke to you **persistently** you did not listen, <br>
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
+When I spoke to you **persistently** <br>
+you did not listen, <br>
 and when I **called** you, you did not answer, 
 
-therefore I will do to the **house**  <br>
-that is called by my name, and in which you **trust**, 
+therefore I will do to the **house** that is <br>
+called by my name, and in which you **trust**, 
 
 and to the place that I gave  <br>
 to you and to your fathers, as I did to **Shiloh**.
 
 [Jeremiah 7:13-14 (ESV)](# "ref")
+[Thailand.  Dominik QN](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
 + persist: **rise early** to speak / call
@@ -466,6 +505,7 @@ to you and to your fathers, as I did to **Shiloh**.
 + But Jesus, **cleansing** temple, Is56:
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 “And the **foreigners** who **join** themselves <br>
 to the Lord, to minister to him,
 
@@ -477,8 +517,10 @@ and does not profane it, <br>
 and holds fast my **covenant** —
 
 [Isaiah 56:6 (ESV)](# "ref")
+[Ben White](https://unsplash.com/photos/bEbqpPeHEM4 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 these I will bring to my **holy mountain**, <br>
 and make them joyful in my **house of prayer**;
 
@@ -501,7 +543,7 @@ a house of prayer for **all peoples**.”
 
 ---
 <!-- .slide: data-background="white" -->
-# **Who** is our church **safe** for? 
+# **Who** is <br> our church <br> **safe** for? 
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -514,5 +556,7 @@ a house of prayer for **all peoples**.”
   + from all walks of life?
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> class="empty" -->
+>>>
 ___________________________________________
 + 
