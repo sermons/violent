@@ -44,6 +44,11 @@ that **faithless** one, Israel?
 [Jeremiah 3:6 (ESV)](# "ref")
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
+>>>
++ **faithless**: astray for so long,
+  + no longer cares to **know** God
++ don't **claim** to follow God
+
 ---
 <!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
 Yet for all this her **treacherous** sister Judah <br>
@@ -56,8 +61,6 @@ Faithless Israel has shown herself <br>
 [Jeremiah 3:10,11 (ESV)](# "ref")
 
 >>>
-+ **faithless**: astray for so long,
-  + no longer cares to **know** God
 + **unfaithful** / treach: 
   + **claims** to know, but in pretense
 + v12 **return**, faithless children, 
@@ -85,7 +88,7 @@ saying, ‘**Peace, peace**,’ when there is no peace.
 [Jeremiah 6:14 (ESV)](# "ref")
 
 >>>
-+ much **easier** to preach comfort + peace
++ **easier** to preach comfort + peace
   + **selfishly**, more profitable to me
 + but **wound** deep in heart of church
   + to say it's fine is **disservice**
@@ -208,7 +211,7 @@ to your own harm,
   + fatherless: orphan, 
     + w/o healthy **father** fig
   + widow: **destitute**, dependent
-+ bloodshed: harm those who did **no wrong**
++ bloodshed: harm those did **no wrong**
 + other **gods**: defying God by
   + following after other **idols**
 + Is58 **worship**: fasting, Sabbath
@@ -244,6 +247,10 @@ concerning burnt **offerings** and sacrifices.
 [Jeremiah 7:22 (ESV)](# "ref")
 [Mika Matin. TN, US](https://unsplash.com/photos/MMylZHPsO2I "caption")
 
+>>>
++ Being Chr does not consist in
+  + attend **church**, volun., sing
+
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 But this command I gave them:
@@ -257,8 +264,6 @@ that it may be **well** with you.’
 [Jeremiah 7:23 (ESV)](# "ref")
 
 >>>
-+ Being Chr does not consist in
-  + attend **church**, volun., sing
 + **Obey** God's commands
   + **rl** God -- people
   + **walk**: daily habits, decisions
@@ -280,6 +285,10 @@ afterward he changed his mind and **went**.
 [Matthew 21:28-29](# "ref")
 [Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
 
+>>>
++ in **word**: refused
++ in **deed**: obeyed
+
 ---
 <!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 And he went to the other son and said the same. <br>
@@ -290,6 +299,8 @@ Which of the two did the **will** of his father?”
 [Matthew 21:30-31](# "ref")
 
 >>>
++ in **word**: agreed
+  + in **deed**: disobeyed
 + talk is **cheap**:
   + not about our **promises** to God
 + but our **actions**
@@ -440,7 +451,7 @@ ______
 + Follow **behind** gods of other nations
   + "other nations have **their** gods"
   + "I want to **follow** those, too"
-+ bring in whole **family**: v18
++ bring in whole **family**: v18 later
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
@@ -478,7 +489,9 @@ go after **other gods** that you have not known,
 + **murder** (hate)
 + **adultery** (lust in heart)
 + **lie** (assert auth don't have)
-+ follow other **idols**,
++ make **sacrifices** + **follow** after
+  + the **idols** of the world
+  + and cause **kids** to do same
 
 ---
 <!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
@@ -523,7 +536,9 @@ declares the Lord.
 + refuse to ack, **cover-up**,
   + "forgive + move on"
 + **eyes** / sight: we perceive incorr
-  + God sees in **secret**, takes seriously:
+  + fulfil **oblig** to God
+  + despite **harm** we've caused
++ God sees **secret**, takes seriously:
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
