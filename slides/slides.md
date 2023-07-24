@@ -18,6 +18,7 @@
 
 >>>
 + preaching to **self**, too!
++ not only our church
 + Behold the Lamb
 
 ---
